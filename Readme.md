@@ -1,1 +1,3 @@
-# cartprice.in
+# cartprice
+
+Cartprice Website - hosted on github
